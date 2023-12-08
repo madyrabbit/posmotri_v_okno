@@ -1,1 +1,1 @@
-https://github.com/madyrabbit
+https://github.com/madyrabbit/posmotri_v_okno.git
