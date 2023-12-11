@@ -257,7 +257,7 @@ ol {
 
 .button:focus-visible {
   outline: 1px solid #FFF;
-  outline-offset: -4px;
+  outline-offset: -3px;
 }
 
 .search-form__submit-button {
@@ -275,6 +275,10 @@ ol {
 }
 
 .content__card-link_current {
+  background-color: #545050;
+}
+
+.content__card-link:active {
   background-color: #545050;
 }
 
